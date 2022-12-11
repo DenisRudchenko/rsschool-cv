@@ -1,1 +1,0 @@
-[# rsschool-cv](https://DenisRudchenko.github.io/rsschool-cv/cv)
