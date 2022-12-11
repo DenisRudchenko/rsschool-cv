@@ -12,3 +12,13 @@ I'm a logistics specialist. For the last 4 years I have worked for an internatio
 * Graphics: Figma, Photoshop, Lightroom
 * Version control: Github
 * Frameworks and libraries: React
+## Code Example
+```
+function sum (x) {
+    function sumIt(y) {
+        return x + y;
+    };
+    return sumIt;
+}
+```
+
