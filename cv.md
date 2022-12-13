@@ -21,4 +21,14 @@ function sum (x) {
     return sumIt;
 }
 ```
-
+## Experience
+Unfortunately, I haven't had any experience yet.
+## Education and Courses
+* Gomel University of the Ministry of Emergency Situations
+* Udemy: Web devepment 2022
+* Udemy: React JS
+* Code-basics: Java Script for a beginner
+* Hexlet: JavaScript for a beginner
+## Languages
+* Russia: Native Speaker
+* English: B1 - Pre-Intermediate
